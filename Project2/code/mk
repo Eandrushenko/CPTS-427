@@ -1,0 +1,2 @@
+gcc -o totp totp.c -lcrypto -lm
+./totp test
